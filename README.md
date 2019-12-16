@@ -2,11 +2,11 @@
 ## D3 Dabbler
 
 
-Our pbjective here is the following :
+Our objective here is the following :
 
 We will create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
-Create a scatter plot that represents each state with circle elements.
+We will also create a scatter plot that represents each state with circle elements.
 
 * Include state abbreviations in the circles.
 
